@@ -10,6 +10,10 @@ Some activities regarding FPGA investigation
 4. Package (e.g. with icepack)
 5. Upload (with iceprog)
 
+## Reference
+
+- [Verliog Quick Reference Card](http://www.ee.ic.ac.uk/pcheung/teaching/ee2_digital/Verilog%20Quick%20Reference%20Card%20v2_0.pdf)
+
 ## Lattice
 
 Usage of the iCEstick Evaluation Kit ICE40HX1K-STICK-EVN
