@@ -1,0 +1,14 @@
+{
+  "guests": [
+    {
+      "name": "fpga",
+      "usb": [
+        {
+          "name": "LatticeFTUSBInterfaceCable",
+          "vendor": "0x0403",
+          "product": "0x6010"
+        }
+      ]
+    }
+  ]
+}
