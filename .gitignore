@@ -1,1 +1,6 @@
 .susi
+.DS_Store
+.sconsign.dblite
+hardware.asc
+hardware.bin
+hardware.json
